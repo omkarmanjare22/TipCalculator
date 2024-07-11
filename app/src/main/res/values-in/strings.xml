@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kalkulator Tip</string>
+    <string name="bill_amount">Jumlah Tagihan</string>
+    <string name="tip_percentage">Persentase Tip</string>
+    <string name="tip_amount">Jumlah Tip</string>
+    <string name="number_of_people">Jumlah\n Orang</string>
+    <string name="number_of_people2">Jumlah Orang</string>
+    <string name="per_person">Per Orang\n Membayar</string>
+    <string name="per_person2">Per Orang Membayar</string>
+    <string name="total_amount">Jumlah Total</string>
+    <string name="copy">Salin</string>
+    <string name="share">Bagikan</string>
+    <string name="share_via">Bagikan melalui</string>
+</resources>

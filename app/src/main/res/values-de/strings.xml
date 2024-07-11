@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trinkgeldrechner</string>
+    <string name="bill_amount">Rechnungsbetrag</string>
+    <string name="tip_percentage">% Trinkgeld</string>
+    <string name="tip_amount">Trinkgeldbetrag</string>
+    <string name="number_of_people">Anzahl der\n Personen</string>
+    <string name="number_of_people2">Anzahl der Personen</string>
+    <string name="per_person">Pro Person\n zahlt</string>
+    <string name="per_person2">Pro Person zahlt</string>
+    <string name="total_amount">Gesamtbetrag</string>
+    <string name="copy">Kopieren</string>
+    <string name="share">Teilen</string>
+    <string name="share_via">Teilen via</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">チップ計算機</string>
+    <string name="bill_amount">請求額</string>
+    <string name="tip_percentage">チップ %</string>
+    <string name="tip_amount">チップ額</string>
+    <string name="number_of_people">人数</string>
+    <string name="number_of_people2">人数</string>
+    <string name="per_person">1人あたり\n 支払い</string>
+    <string name="per_person2">1人あたり支払い</string>
+    <string name="total_amount">合計金額</string>
+    <string name="copy">コピー</string>
+    <string name="share">共有</string>
+    <string name="share_via">共有先</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculatrice de pourboire</string>
+    <string name="bill_amount">Montant de la facture</string>
+    <string name="tip_percentage">% Pourboire</string>
+    <string name="tip_amount">Montant du pourboire</string>
+    <string name="number_of_people">Nombre de\n personnes</string>
+    <string name="number_of_people2">Nombre de personnes</string>
+    <string name="per_person">Par personne\n Paie</string>
+    <string name="per_person2">Par personne Paie</string>
+    <string name="total_amount">Montant Total</string>
+    <string name="copy">Copier</string>
+    <string name="share">Partager</string>
+    <string name="share_via">Partager via</string>
+</resources>

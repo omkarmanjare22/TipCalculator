@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">آلة حاسبة البقشيش</string>
+    <string name="bill_amount">مبلغ الفاتورة</string>
+    <string name="tip_percentage">نسبة البقشيش %</string>
+    <string name="tip_amount">مبلغ البقشيش</string>
+    <string name="number_of_people">عدد الأشخاص</string>
+    <string name="number_of_people2">عدد الأشخاص</string>
+    <string name="per_person">المبلغ للفرد\n يدفع</string>
+    <string name="per_person2">المبلغ للفرد يدفع</string>
+    <string name="total_amount">المبلغ الإجمالي</string>
+    <string name="copy">نسخ</string>
+    <string name="share">مشاركة</string>
+    <string name="share_via">مشاركة عبر</string>
+</resources>

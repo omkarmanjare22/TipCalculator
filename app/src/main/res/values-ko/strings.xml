@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">팁 계산기</string>
+    <string name="bill_amount">계산 금액</string>
+    <string name="tip_percentage">팁 %</string>
+    <string name="tip_amount">팁 금액</string>
+    <string name="number_of_people">인원수</string>
+    <string name="number_of_people2">인원수</string>
+    <string name="per_person">1인당\n 지불</string>
+    <string name="per_person2">1인당 지불</string>
+    <string name="total_amount">총 금액</string>
+    <string name="copy">복사</string>
+    <string name="share">공유</string>
+    <string name="share_via">공유하기</string>
+</resources>

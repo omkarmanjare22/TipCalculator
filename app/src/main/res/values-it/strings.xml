@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcolatrice delle Mance</string>
+    <string name="bill_amount">Importo Conto</string>
+    <string name="tip_percentage">% Mancia</string>
+    <string name="tip_amount">Importo Mancia</string>
+    <string name="number_of_people">Numero di\n Persone</string>
+    <string name="number_of_people2">Numero di Persone</string>
+    <string name="per_person">Importo per\n Persona</string>
+    <string name="per_person2">Importo per Persona</string>
+    <string name="total_amount">Importo Totale</string>
+    <string name="copy">Copia</string>
+    <string name="share">Condividi</string>
+    <string name="share_via">Condividi tramite</string>
+</resources>

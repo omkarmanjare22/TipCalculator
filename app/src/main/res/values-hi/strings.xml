@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">टिप कैलकुलेटर</string>
+    <string name="bill_amount">बिल राशि</string>
+    <string name="tip_percentage">टिप %</string>
+    <string name="tip_amount">टिप राशि</string>
+    <string name="number_of_people">लोगों की संख्या</string>
+    <string name="number_of_people2">लोगों की संख्या</string>
+    <string name="per_person">प्रति व्यक्ति\n देता है</string>
+    <string name="per_person2">प्रति व्यक्ति देता है</string>
+    <string name="total_amount">कुल राशि</string>
+    <string name="copy">कॉपी</string>
+    <string name="share">शेयर</string>
+    <string name="share_via">के माध्यम से शेयर करें</string>
+</resources>

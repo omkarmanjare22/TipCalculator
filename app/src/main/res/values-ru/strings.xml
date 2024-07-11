@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Калькулятор чаевых</string>
+    <string name="bill_amount">Сумма счета</string>
+    <string name="tip_percentage">% Чаевых</string>
+    <string name="tip_amount">Сумма чаевых</string>
+    <string name="number_of_people">Количество\n людей</string>
+    <string name="number_of_people2">Количество людей</string>
+    <string name="per_person">На человека\n платит</string>
+    <string name="per_person2">На человека платит</string>
+    <string name="total_amount">Общая сумма</string>
+    <string name="copy">Копировать</string>
+    <string name="share">Поделиться</string>
+    <string name="share_via">Поделиться через</string>
+</resources>

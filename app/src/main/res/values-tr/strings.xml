@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bahşiş Hesaplayıcı</string>
+    <string name="bill_amount">Hesap Tutarı</string>
+    <string name="tip_percentage">Bahşiş %</string>
+    <string name="tip_amount">Bahşiş Tutarı</string>
+    <string name="number_of_people">Kişi Sayısı</string>
+    <string name="number_of_people2">Kişi Sayısı</string>
+    <string name="per_person">Kişi Başı\n Ödeme</string>
+    <string name="per_person2">Kişi Başı Ödeme</string>
+    <string name="total_amount">Toplam Tutar</string>
+    <string name="copy">Kopyala</string>
+    <string name="share">Paylaş</string>
+    <string name="share_via">Paylaş</string>
+</resources>
